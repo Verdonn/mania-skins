@@ -1,8 +1,8 @@
 # mania-skins
 here is a collection of my osu!mania / quaver skins.
 
-[Old osu!mania skins](https://github.com/Verdonn/mania-skins?tab=readme-ov-file#old-skins)
-
+[old osu!mania skins](https://github.com/Verdonn/mania-skins#old-skins-osumania)
+[old quaver skins](https://github.com/Verdonn/mania-skins#old-skins-quaver)
 
 ## Current osu!mania skin
 
