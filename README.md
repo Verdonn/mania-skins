@@ -1,6 +1,9 @@
 # mania-skins
 here is a collection of my osu!mania / quaver skins.
 
+[Old osu!mania skins](https://github.com/Verdonn/mania-skins?tab=readme-ov-file#old-skins)
+
+
 ## Current osu!mania skin
 
 ### Verdon's Skin v20240123
@@ -17,9 +20,14 @@ here is a collection of my osu!mania / quaver skins.
 
 
 
-## Old Skins
+## Old skins (osu!mania)
 
 ### Verdon's Skin v202311
 > skin I made and used throughout 2023
 
 ![Verdon's Skin 2023 gameplay](https://i.imgur.com/IjDvnIu.png)
+
+
+
+
+## Old skins (Quaver)
