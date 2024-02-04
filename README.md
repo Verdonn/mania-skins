@@ -7,4 +7,4 @@ here is a collection of my osu!mania skins.
 ## Verdon's Skin v20240123
 > my latest skin, though still unfinished.
 
-![https://files.catbox.moe/fvjzir.jpg]
+![Song Select](https://files.catbox.moe/fvjzir.jpg)
