@@ -1,4 +1,4 @@
-# mania-skins
+# Verdon's mania skin collection
 here is a collection of osu!mania / quaver skins that I made or ported.
 
 [old osu!mania skins](https://github.com/Verdonn/mania-skins#old-skins-osumania)
