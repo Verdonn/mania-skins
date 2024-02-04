@@ -15,7 +15,7 @@ here is a collection of my osu!mania / quaver skins.
 ## Current Quaver skin
 
 ### [Verdon's Skin](https://steamcommunity.com/sharedfiles/filedetails/?id=2938951677)
-> made this at the start of 2023
+> made this at the start of 2023, based on eliminate's skin
 
 ![Verdon's Skin on Quaver](https://steamuserimages-a.akamaihd.net/ugc/2012583396739128983/82DAAEB9FBE3D78E5E483C2874CBD4F85A8C359B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
@@ -23,10 +23,16 @@ here is a collection of my osu!mania / quaver skins.
 
 ## Old skins (osu!mania)
 
-### Verdon's Skin v202311
-> skin I made and used throughout 2023
+### Verdon's Skin v202303
+> skin I made and used through early 2023
 
-![Verdon's Skin 2023 gameplay](https://i.imgur.com/IjDvnIu.png)
+![Verdon's Skin early 2023 gameplay](https://i.imgur.com/IjDvnIu.png)
+
+
+### Yuyuko Saigyouji (Verdon's Edit)
+> mix skin I put together and used late 2023. mania stuff was mostly taken from nerrix and edited
+
+![Yuyuko Saigyouji (Verdon's Edit) gameplay](https://i.imgur.com/nKorlwS.png)
 
 
 
