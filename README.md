@@ -35,6 +35,10 @@ here is a collection of my osu!mania / quaver skins.
 ![Yuyuko Saigyouji (Verdon's Edit) gameplay](https://i.imgur.com/nKorlwS.png)
 
 
+### Verdon 4 (2020)
+> VERY ugly skin I worked on back in 2020 and early 2021
+
+![Verdon 4 gameplay](https://i.imgur.com/njRDve8.png)
 
 
 ## Old skins (Quaver)
