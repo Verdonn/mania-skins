@@ -1,8 +1,6 @@
 # mania-skins
-
 here is a collection of my osu!mania / quaver skins.
 
-[osu! - Verdon](https://osu.ppy.sh/users/verdon)
 ## Current osu!mania skin
 
 ### Verdon's Skin v20240123
