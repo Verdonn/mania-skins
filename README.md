@@ -16,10 +16,8 @@ here is a collection of osu!mania / quaver skins that I made or ported.
 
 ## Current Quaver skin
 
-### [Verdon's Skin](https://steamcommunity.com/sharedfiles/filedetails/?id=2938951677)
-> made this at the start of 2023, literally just copy and pasted my plox edit
-> 
-> planned updates: add percy
+### [Verdon V3 (Pervy Version)](https://steamcommunity.com/sharedfiles/filedetails/?id=3182522115)
+> current 2024 skin. port coming soon to mania
 
 ![Verdon's Skin on Quaver](https://steamuserimages-a.akamaihd.net/ugc/2012583396739128983/82DAAEB9FBE3D78E5E483C2874CBD4F85A8C359B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
