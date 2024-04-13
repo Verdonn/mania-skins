@@ -5,6 +5,8 @@ here is a collection of osu!mania / quaver skins that I made or ported.
 
 [other quaver skins](https://github.com/Verdonn/mania-skins#other-skins-quaver)
 
+old versions of verdon skin (ill add this some other time)
+
 ## Current osu!mania skin
 
 ### [Verdon's Skin 2024](https://drive.google.com/file/d/1BG3WmzDo9mqyGKxQiDm5NUOvrOj9C0JI/view?usp=drive_link)
