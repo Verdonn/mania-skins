@@ -7,12 +7,12 @@ here is a collection of osu!mania / quaver skins that I made or ported.
 
 ## Current osu!mania skin
 
-### Verdon's Skin 2024
-> my unfinished 2024 skin. all of the UI is incomplete and will be redone in the future
+### [Verdon's Skin 2024](https://drive.google.com/file/d/1BG3WmzDo9mqyGKxQiDm5NUOvrOj9C0JI/view?usp=drive_link)
+> my unfinished 2024 skin. all of the UI is incomplete and will be redone in the future. If you want an older version, please ask on discord.
 
-> Current Progress: ~31% complete
+> Current Progress: ~50% complete
 
-![Verdon's Skin 2024 gameplay](https://i.imgur.com/GMsPAuS.png)
+![Verdon's Skin 2024 gameplay](https://osu.ppy.sh/ss/19113662/ccc8)
 
 ## Current Quaver skin
 
