@@ -2,7 +2,7 @@
 here is a collection of osu!mania / quaver skins that I made or ported.
 
 list of skins not included in this repo (reach out on discord if you'd like them):
-Verdon 3, Verdon's Skin 20240107, Verdon's Skin 20250121, Verdon's Skin 20250602, Verdon9000 Skin, Verdon's Skin V4 (Quaver)
+Verdon 3, Verdon's Skin 20240107, Verdon's Skin 20250121, Verdon's Skin 20250602, Verdon9000 Skin, Verdon's Skin 4.0 (Quaver), Verdon's Skin 4.5 (Quaver)
 
 [old osu!mania skins](https://github.com/Verdonn/mania-skins#old-skins-osumania)
 
