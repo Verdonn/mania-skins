@@ -18,12 +18,10 @@ Verdon 3, Verdon's Skin 20240107, Verdon's Skin 20250121, Verdon's Skin 20250602
 
 ## Current Quaver skin
 
-### [Verdon's Skin 5.0 (Percy)](https://steamcommunity.com/sharedfiles/filedetails/?id=3581588242)
-> current skin with my brand new song select UI. ported from osu!mania.
+### [Verdon's Oisuu 5.0](https://steamcommunity.com/sharedfiles/filedetails/?id=3703576832)
+> unironically my new main skin. lazy port from mania.
 
-![Verdon's Skin 5.0 thumbnail](https://images.steamusercontent.com/ugc/11443399009482499961/BD9BD0DD29E648B653B6BBF941FD7311E398287C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
-![Verdon's Skin 5.0 song select](https://images.steamusercontent.com/ugc/9928106565644372333/6640F9518B9E53178FB04F5EE9501CC3C6359BAC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
-
+![Verdon's Oisuu 5.0 gameplay](https://images.steamusercontent.com/ugc/15424071500819138319/99C14B0F73CCBA84ABE0C14B2F121035DCDCB724/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
 
 ## Old skins (osu!mania)
@@ -75,6 +73,11 @@ Verdon 3, Verdon's Skin 20240107, Verdon's Skin 20250121, Verdon's Skin 20250602
 ## Other skins (Quaver)
 
 
+### [Verdon's Skin 5.0 (Percy)](https://steamcommunity.com/sharedfiles/filedetails/?id=3581588242)
+> skin with my brand new song select UI. ported from osu!mania.
+
+![Verdon's Skin 5.0 thumbnail](https://images.steamusercontent.com/ugc/11443399009482499961/BD9BD0DD29E648B653B6BBF941FD7311E398287C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+![Verdon's Skin 5.0 song select](https://images.steamusercontent.com/ugc/9928106565644372333/6640F9518B9E53178FB04F5EE9501CC3C6359BAC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
 
 ### [Verdon V3 (Percy Version)](https://steamcommunity.com/sharedfiles/filedetails/?id=3182522115)
