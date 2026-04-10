@@ -9,10 +9,11 @@ Verdon 3, Verdon's Skin 20240107, Verdon's Skin 20250121, Verdon's Skin 20250602
 [other quaver skins](https://github.com/Verdonn/mania-skins#other-skins-quaver)
 
 ## Current osu!mania skin
-### [Verdon's Skin 20250919](https://drive.google.com/file/d/1J2I7Bm9M_qWJHkjORUR2r7iv-JmzRhuo/view?usp=sharing)
-> current skin for stable and lazer. don't mind the very scuffed and ugly UI I haven't worked on it in over a year. pretty similar to my old unreleased skin from a couple years ago but better.
 
-![Verdon's Skin 2025 gameplay](https://i.postimg.cc/7PKF4jzv/osu-qc-Ueenx1-R1.png)
+### [Verdon's Oisuu 2026-04-01](https://drive.google.com/file/d/1OaKULVxsM8czX34UOH_7BrnGBXmVdNfB/view?usp=sharing)
+> unironically my new main skin. made as a joke but I ended up only being able to read this skin. currently unfinished as I plan on making this skin fully Nice Nature themed in the future.
+
+![Verdon's Oisuu 2026 gameplay](https://i.ibb.co/7N8hvYqC/image.png)
 
 
 ## Current Quaver skin
@@ -26,6 +27,12 @@ Verdon 3, Verdon's Skin 20240107, Verdon's Skin 20250121, Verdon's Skin 20250602
 
 
 ## Old skins (osu!mania)
+
+### [Verdon's Skin 20250919](https://drive.google.com/file/d/1J2I7Bm9M_qWJHkjORUR2r7iv-JmzRhuo/view?usp=sharing)
+> old skin for stable and lazer. don't mind the very scuffed and ugly UI I haven't worked on it in over a year. pretty similar to my old unreleased skin from a couple years ago but better.
+
+![Verdon's Skin 2025 gameplay](https://i.postimg.cc/7PKF4jzv/osu-qc-Ueenx1-R1.png)
+
 
 ### [Verdon's Skin 20240721](https://drive.google.com/file/d/1BG3WmzDo9mqyGKxQiDm5NUOvrOj9C0JI/view?usp=drive_link)
 > my old 2024 skin. all of the UI is incomplete and will be redone in the future. If you want an older version, please ask on discord.
