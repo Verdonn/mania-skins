@@ -10,10 +10,15 @@ Verdon 3, Verdon's Skin 20240107, Verdon's Skin 20250121, Verdon's Skin 20250602
 
 ## Current osu!mania skin
 
-### [Verdon's Oisuu 2026-04-01](https://drive.google.com/file/d/1OaKULVxsM8czX34UOH_7BrnGBXmVdNfB/view?usp=sharing)
-> unironically my new main skin. made as a joke but I ended up only being able to read this skin. currently unfinished as I plan on making this skin fully Nice Nature themed in the future.
+### [Verdon's Oisuu 2026-10-17](https://drive.google.com/file/d/1CVIE74XviwW0J5NvooKPrYw8zaD3w3cb/view?usp=sharing)
+> Unfinished skin based on Nice Nature from Umamusume: Pretty Derby
 
-![Verdon's Oisuu 2026 gameplay](https://i.ibb.co/7N8hvYqC/image.png)
+I DO NOT OWN ANY NICE NATURE ART. I ONLY MADE THE UI ELEMENTS TO MAKE THE SKIN. CREDIT GOES TO @miyamav2 ON TWITTER
+
+LNs are broken on osu!lazer
+
+![Verdon's Oisuu 2026 gameplay](https://api.mania-tracker.com/api/skins/file/8ad90b30-5de8-4e69-8cc7-c75205f02f8d/preview-4k-r2.webp)
+![Verdon's Oisuu 2026 song select](https://api.mania-tracker.com/api/skins/file/8ad90b30-5de8-4e69-8cc7-c75205f02f8d/shot-0-d5e91ccb.webp)
 
 
 ## Current Quaver skin
